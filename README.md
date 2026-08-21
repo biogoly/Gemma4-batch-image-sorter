@@ -1,3 +1,6 @@
+<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/bd020bae-9443-4426-a91c-98fc096cdbe2" />
+
+
 # Gemma Vision Sorter
 
 Gemma Vision Sorter scans an image folder with a locally served vision-language
