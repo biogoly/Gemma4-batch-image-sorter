@@ -1,4 +1,4 @@
-<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/bd020bae-9443-4426-a91c-98fc096cdbe2" />
+<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/8bfd35b5-dd30-4462-963c-05716e1f8e85" />
 
 
 # Gemma Vision Sorter
